@@ -2,8 +2,5 @@ welcome to my class
 this is my second commit
 this is my third commit
 hello all
-<<<<<<< HEAD
 dkhhgdg
 hello how are u
-=======
->>>>>>> parent of 875323d (demo reverting)
